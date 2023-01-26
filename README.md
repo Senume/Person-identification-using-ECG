@@ -1,4 +1,4 @@
-# SIP-person_identification
+# Person Identification
 ## **INTRODUCTION**
 This repository contains the implementation of the research paper titled "An integration of features for person identification based on the
 PQRST fragments of ECG signals". The paper presents a novel approach to identify the subjects using PQRST fragments of the electrocardiogram (ECG)
@@ -39,7 +39,5 @@ Bib TeX
 If you use any of the code or resources from this repository in your own research, please also cite the GitHub repository.
 
 If you have any questions or encounter any issues, please feel free to open an issue on this repository or contact the repository authors. We hope that this implementation will be useful for other researchers in the field.
-
-Footnotes
 
 [^1]: An integration of features for person identification based on the PQRST fragments of ECG signals.
