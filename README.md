@@ -2,7 +2,7 @@
 ## **INTRODUCTION**
 This repository contains the implementation of the research paper titled "An integration of features for person identification based on the
 PQRST fragments of ECG signals". The paper presents a novel approach to identify the subjects using PQRST fragments of the electrocardiogram (ECG)
-signal[^1]. Our method is based on identification the system which has three principal steps, namely preprocessing, features extraction, and classification.
+signal[^1]. The method is based on identification the system which has three principal steps, namely preprocessing, features extraction, and classification.
 
 The code in this repository is organized into. 
 - src : Contains all the codes files, files have been named based on its functions. 
