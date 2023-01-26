@@ -17,10 +17,13 @@ If you use any of resources from the paper in your own research, please cite the
 
 PLAIN TEXT
 
+```
 Hamza, S., Ayed, Y.B. An integration of features for person identification based on the PQRST fragments of ECG signals. SIViP 16, 2037–2043 (2022). https://doi.org/10.1007/s11760-022-02165-8
+```
 
 Bib TeX
 
+```
 @article{hamza2022integration,
   title={An integration of features for person identification based on the PQRST fragments of ECG signals},
   author={Hamza, Sihem and Ayed, Yassine Ben},
@@ -31,6 +34,7 @@ Bib TeX
   year={2022},
   publisher={Springer}
 }
+```
 
 If you use any of the code or resources from this repository in your own research, please also cite the GitHub repository.
 
